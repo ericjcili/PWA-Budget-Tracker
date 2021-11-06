@@ -9,9 +9,6 @@ Budget Tracker is a PWA (progressive web application) that allows users to track
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example Usage](#example-usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Installation
 
